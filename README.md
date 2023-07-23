@@ -1,8 +1,6 @@
 # Basic commands to work with GitHub How to use GitHub - Step by Step
 
-
-<strong> ## Creating the first commit in a new repository. on the first machine</strong>
-
+## Creating the first commit in a new repository. on the first machine
 
 <strong>First Step</strong> → Create the repository on GitHub
 
