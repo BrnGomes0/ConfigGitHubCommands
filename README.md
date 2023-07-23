@@ -45,26 +45,34 @@ Your first commit has been performed. Your repository will contain your committe
 <br>
 ## ACCESSING THE REPOSITORY FILES ON A DIFFERENT MACHINE
 
-<strong>First Step</strong> → Open the terminal in Visual Studio Code and issue the following commands
+<strong>First Step</strong> → Open the terminal in Visual Studio Code and issue the following commands:
+<br>
 <code>cd <nameFile> </code>
 
 <strong>Second Step</strong>  → Inside the selected folder, put the following code:
+<br>
 <code>git clone <LinkRepositoryAlreadyCreated></code>
 
 <strong>Third step</strong> → Open the folder inside the folder created in the first step:
+<br>
 <code>cd <nameFile></code>
 
-<strong>Fourth step</strong> → To view the status of files in the folder
+<strong>Fourth step</strong> → To view the status of files in the folder:
+<br>
 <code>git status</code>
 
-<strong>Fifth step</strong> → Change branch from master to main
+<strong>Fifth step</strong> → Change branch from master to main:
+<br>
 <code>git branch -M main</code>
 
-<strong>Sixth step → Add all changed files</strong>
+<strong>Sixth step</strong> → Add all changed files:
+<br>
 <code>git add .</code>
 
-<strong>Seventh step</strong> → After adding all the files, commit to upload the new files with the necessary changes on github
+<strong>Seventh step</strong> → After adding all the files, commit to upload the new files with the necessary changes on github:
+<br>
 <code>git commit -m "nameChosen"</code>
 
-<strong>Eighth Step</strong> → Push the files to the repository
+<strong>Eighth Step</strong> → Push the files to the repository:
+<br>
 <code>git push</code>
