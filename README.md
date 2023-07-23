@@ -29,9 +29,10 @@ If you are on your personal computer, the first two commands are only needed onc
 <br>
 <code>git push -u origin main</code>
 <br>
+
 Your first commit has been performed. Your repository will contain your committed files. 
 
-### If you change any other files and want to commit in the same repository using the SAME MACHINE, just follow the codes below:
+<strong>If you change any other files and want to commit in the same repository using the SAME MACHINE, just follow the codes below:</strong>
 
 <code>clear</code>
 <code>git add .</code>
