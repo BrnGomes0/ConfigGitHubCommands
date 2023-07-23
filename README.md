@@ -47,7 +47,7 @@ Your first commit has been performed. Your repository will contain your committe
 
 <strong>First Step</strong> → Open the terminal in Visual Studio Code and issue the following commands:
 <br>
-<code>cd <nameFile> </code>
+<code>cd (nameFile)</code>
 
 <strong>Second Step</strong>  → Inside the selected folder, put the following code:
 <br>
@@ -55,7 +55,7 @@ Your first commit has been performed. Your repository will contain your committe
 
 <strong>Third step</strong> → Open the folder inside the folder created in the first step:
 <br>
-<code>cd <nameFile></code>
+<code>cd (nameFile)</code>
 
 <strong>Fourth step</strong> → To view the status of files in the folder:
 <br>
