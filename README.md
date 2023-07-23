@@ -1,7 +1,7 @@
 # Basic commands to work with GitHub How to use GitHub - Step by Step
 
 
-<strong>Creating the first commit in a new repository. on the first machine</strong>
+<strong> ## Creating the first commit in a new repository. on the first machine</strong>
 
 
 <strong>First Step</strong> → Create the repository on GitHub
@@ -13,7 +13,7 @@ Give the repository a name, configure whether it will be private or public, choo
 
 <strong>Third Step</strong> → Follow series of git commands in order
 
-	If you are on your personal computer, the first two commands are only needed once. If it is on the BOSCH computer or one that is not yours, put it every time you commit.
+If you are on your personal computer, the first two commands are only needed once. If it is on the BOSCH computer or one that is not yours, put it every time you commit.
 
 <code>git config --global user.name "BrnGomes0"</code>
 <br>
@@ -35,10 +35,9 @@ Give the repository a name, configure whether it will be private or public, choo
 <br>
 
 
-
 Your first commit has been performed. Your repository will contain your committed files. 
 
-If you change any other files and want to commit in the same repository using the SAME MACHINE, just follow the codes below: 
+<strong>## If you change any other files and want to commit in the same repository using the SAME MACHINE, just follow the codes below:</strong>
 
 
 clear
