@@ -15,7 +15,7 @@ Third Step → Follow series of git commands in order
 
 	If you are on your personal computer, the first two commands are only needed once. If it is on the BOSCH computer or one that is not yours, put it every time you commit.
 
-git config --global user.name "BrnGomes0"
+<code>git config --global user.name "BrnGomes0"</code>
 git config -global user.email "brunownog05@gmail.com"
 git init
 git status
