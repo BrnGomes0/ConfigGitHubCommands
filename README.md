@@ -36,10 +36,13 @@ Your first commit has been performed. Your repository will contain your committe
 <strong>If you change any other files and want to commit in the same repository using the SAME MACHINE, just follow the codes below:</strong>
 
 <code>clear</code>
+<br>
 <code>git add .</code>
+<br>
 <code>git commit -m "SecondCommit"</code>
+<br>
 <code>git push</code> 
-
+<br>
 ## ACCESSING THE REPOSITORY FILES ON A DIFFERENT MACHINE
 
 <strong>First Step</strong> → Open the terminal in Visual Studio Code and issue the following commands
