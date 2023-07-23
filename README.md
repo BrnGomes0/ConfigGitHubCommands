@@ -1,17 +1,17 @@
-#Basic commands to work with GitHub How to use GitHub - Step by Step
+# Basic commands to work with GitHub How to use GitHub - Step by Step
 
 
-Creating the first commit in a new repository. on the first machine
+<strong>Creating the first commit in a new repository. on the first machine</strong>
 
 
-First Step → Create the repository on GitHub
+<strong>First Step</strong> → Create the repository on GitHub
 
 Give the repository a name, configure whether it will be private or public, choose whether it will contain a Readme.md file.
 
 
-Second Step → Open VisualStudioCode with the files open, and create a new terminal using GitBash.
+<strong>Second Step</strong> → Open VisualStudioCode with the files open, and create a new terminal using GitBash.
 
-Third Step → Follow series of git commands in order
+<strong>Third Step</strong> → Follow series of git commands in order
 
 	If you are on your personal computer, the first two commands are only needed once. If it is on the BOSCH computer or one that is not yours, put it every time you commit.
 
