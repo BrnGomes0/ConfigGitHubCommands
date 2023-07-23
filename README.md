@@ -16,14 +16,14 @@ Third Step → Follow series of git commands in order
 	If you are on your personal computer, the first two commands are only needed once. If it is on the BOSCH computer or one that is not yours, put it every time you commit.
 
 <code>git config --global user.name "BrnGomes0"</code>
-git config -global user.email "brunownog05@gmail.com"
-git init
-git status
-git add .
-git commit -m "nameCommit"
-git branch -M main
-git remote add origin <link> (Uma única vez)
-git push -u origin main
+<code>git config -global user.email "brunownog05@gmail.com"</code>
+<code>git init</code>
+<code>git status</code>
+<code>git add .</code>
+<code>git commit -m "nameCommit" </code>
+<code>git branch -M main</code>
+<code>git remote add origin <link> (Uma única vez)</code>
+<code>git push -u origin main</code>
 
 
 Your first commit has been performed. Your repository will contain your committed files. 
