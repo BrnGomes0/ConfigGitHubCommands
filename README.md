@@ -1,6 +1,5 @@
-# ConfigGitHubCommands
-Basic commands to work with GitHub
-How to use GitHub - Step by Step
+#Basic commands to work with GitHub How to use GitHub - Step by Step
+
 
 Creating the first commit in a new repository. on the first machine
 
