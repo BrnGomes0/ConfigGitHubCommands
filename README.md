@@ -3,8 +3,8 @@
 ## Creating the first commit in a new repository. On the first machine
 
 <strong>First Step</strong> → Create the repository on GitHub
-
 Give the repository a name, configure whether it will be private or public, choose whether it will contain a Readme.md file.
+<br>
 <br>
 <strong>Second Step</strong> → Open VisualStudioCode with the files open, and create a new terminal using GitBash.
 
