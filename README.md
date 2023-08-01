@@ -16,7 +16,7 @@ If you are on your personal computer, the first two commands are only needed onc
 <br>
 <code>git config -global user.email "brunownog05@gmail.com"</code>
 <br>
-<code>git init</code>
+<code>git init</code> The git init command creates a new Git repository. It can be used to convert an existing, unversioned project into a Git repository or initialize a new, empty repository.
 <br>
 <code>git status</code>
 <br>
