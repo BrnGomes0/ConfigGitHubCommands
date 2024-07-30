@@ -12,9 +12,9 @@ Give the repository a name, configure whether it will be private or public, choo
 
 If you are on your personal computer, the first two commands are only needed once. If it is on the BOSCH computer or one that is not yours, put it every time you commit.
 
-<code>git config --global user.name "BrnGomes0"</code>
+<code>git config --global user.name "<username>"</code>
 <br>
-<code>git config -global user.email "brunownog05@gmail.com"</code>
+<code>git config -global user.email "<email>"</code>
 <br>
 <code>git init</code>
 <br>
